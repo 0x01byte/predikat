@@ -1,0 +1,2 @@
+# predikat
+Menampilkan Predikat Nilai
